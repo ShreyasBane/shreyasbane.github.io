@@ -5,6 +5,9 @@ import NavLinks from '../components/NavLinks';
 import Footer from '../components/Footer';
 import TopBar from '../components/TopBar';
 
+// /blog/test
+// /pages/blog/[slug].js
+
 export default function Home() {
   return (
     <div>
