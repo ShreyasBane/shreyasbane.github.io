@@ -1,8 +1,8 @@
 export default function NavLinks () {
     return(
-        <div className='m-3 flex flex-row'>
-            <a href="#About" className='m-4 link-font'>About</a>
-            <a href="#Blog" className='m-4 link-font'>Blog</a>
+        <div className='flex flex-row'>
+            <a href="" className='px-8 nav-links'>Gallery</a>
+            <a href="" className='px-8 nav-links'>About Me</a>
         </div>
     )
 }
