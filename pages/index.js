@@ -8,7 +8,14 @@ import TopBar from '../components/TopBar';
 export default function Home() {
   return (
     <div className=''>
-      <h1>Hello</h1>
+      <div className='flex flex-row'>
+        <div className='navbar h-screen text-white'>
+          <h1>SHREYAS BANE</h1>
+          <h1>Home</h1>
+          <h1>Blog</h1>
+          <h1>About Me</h1>
+        </div>
+      </div>
     </div>
   )
 }
